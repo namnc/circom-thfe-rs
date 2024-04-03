@@ -12,3 +12,6 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+circom-tfhe-rs/.DS_Store
+circom-tfhe-rs/src/.DS_Store
+.DS_Store
