@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 tfhe = { version = "0.5.3", features = [ "boolean", "shortint", "integer", "aarch64-unix" ] }
-regex = { workspace = true, optional = true }
+regex = {}
